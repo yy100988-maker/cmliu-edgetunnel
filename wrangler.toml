@@ -5,3 +5,7 @@ compatibility_flags = ["nodejs_compat"]
 
 [vars]
 UUID = "ae4ac58b-2cf9-4054-94eb-2f056244b4f2"
+
+[[routes]]
+pattern = "v.vutu.ccwu.cc"
+custom_domain = true
