@@ -2,3 +2,6 @@ name = "cmliu-edgetunnel"
 main = "_worker.js"
 compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
+
+[vars]
+UUID = "ae4ac58b-2cf9-4054-94eb-2f056244b4f2"
